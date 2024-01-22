@@ -1,5 +1,4 @@
 import React, { Suspense } from "react"
-import Counter from "../components/Counter";
 import { NavLink, Outlet } from "react-router-dom";
 
 const HomePage = () => {
